@@ -1,0 +1,493 @@
+{
+  "profile": {
+    "fullName": "Muhammad Khan",
+    "location": "Shikarpur, Sindh, Pakistan",
+    "tagline": "LEARN. BUILD. INNOVATE.",
+    "headline": "AI Enthusiast | Aspiring AI Developer | Computer Science & Technology Enthusiast",
+    "animatedTitles": [
+      "AI Enthusiast",
+      "Aspiring AI Developer",
+      "Computer Science Enthusiast",
+      "Software Developer"
+    ],
+    "heroDescription": "Learning, building, and exploring the future of Artificial Intelligence and technology.",
+    "introduction": [
+      "I am Muhammad Khan, a technology enthusiast from Shikarpur, Pakistan, passionate about Artificial Intelligence, Computer Science, software development, and building meaningful digital solutions.",
+      "I enjoy exploring new technologies, learning programming, developing AI-powered applications, and solving real-world problems through technology.",
+      "My journey is driven by curiosity, continuous learning, creativity, and a vision to contribute to the future of technology."
+    ],
+    "aboutParagraphs": [
+      "I am based in Shikarpur, Pakistan. I am passionate about technology, artificial intelligence, programming, and developing digital solutions.",
+      "I believe that learning should always be connected with practical experience. That is why I continuously explore new technologies, complete online courses, and develop projects.",
+      "I enjoy problem-solving, sharing knowledge, teaching mathematics, and helping people explore educational and career opportunities."
+    ],
+    "portraitUrl": "",
+    "email": "mkhuharoofficial@gmail.com",
+    "githubUrl": "https://github.com/mkhuharoofficial",
+    "linkedinUrl": "https://www.linkedin.com/in/muhammad-khan-26137b403/",
+    "portfolioUrl": ""
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "period": "2018–2023",
+      "title": "Matriculation (Science)",
+      "institution": "Government Boys High School, Mian Jo Goth, Shikarpur."
+    },
+    {
+      "id": "edu-2",
+      "period": "2023–2025",
+      "title": "Intermediate (Pre-Medical)",
+      "institution": "C&S Government Degree College, Shikarpur."
+    },
+    {
+      "id": "edu-3",
+      "period": "2024–2025",
+      "title": "Diploma in Information Technology (DIT)",
+      "institution": "MU Institute of IT, Shikarpur."
+    }
+  ],
+  "onlineCourses": [
+    {
+      "id": "cert-1",
+      "categoryCode": "A1",
+      "category": "Python & Programming",
+      "title": "Python for Data Science, AI & Development",
+      "institution": "IBM / Coursera",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/KECJP0AI2KVR",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-2",
+      "categoryCode": "A1",
+      "category": "Python & Programming",
+      "title": "Programming for Everybody (Getting Started with Python)",
+      "institution": "University of Michigan",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/GW1BSEB84RRJ",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-3",
+      "categoryCode": "A1",
+      "category": "Python & Programming",
+      "title": "Introduction to Computer Programming",
+      "institution": "University of London",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/IFHDU67QYQSW",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-4",
+      "categoryCode": "A2",
+      "category": "Mathematics & Computer Science",
+      "title": "Mathematics for Computer Science",
+      "institution": "University of London",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/YI9BR27S3G0Q",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-5",
+      "categoryCode": "A3",
+      "category": "Artificial Intelligence & Machine Learning",
+      "title": "Introduction to Artificial Intelligence (AI)",
+      "institution": "IBM",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/ZMFGAIFBCCO6",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-6",
+      "categoryCode": "A3",
+      "category": "Artificial Intelligence & Machine Learning",
+      "title": "Machine Learning Introduction for Everyone",
+      "institution": "IBM",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/OG0IFS1OXJI3",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-7",
+      "categoryCode": "A3",
+      "category": "Artificial Intelligence & Machine Learning",
+      "title": "AI Fundamentals",
+      "institution": "Google",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/3M5W94MMA83O",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-8",
+      "categoryCode": "A3",
+      "category": "Artificial Intelligence & Machine Learning",
+      "title": "AI For Everyone",
+      "institution": "DeepLearning.AI",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/P8DUE4593WPV",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-9",
+      "categoryCode": "A4",
+      "category": "IT & Cybersecurity",
+      "title": "IT Security: Defense against the Digital Dark Arts",
+      "institution": "Google",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/WAQSFJKEFJ2T",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "cert-10",
+      "categoryCode": "A5",
+      "category": "English Language & Communication",
+      "title": "IELTS Writing Section Skills Mastery",
+      "institution": "University of California, Irvine",
+      "year": "2026",
+      "verificationUrl": "https://coursera.org/verify/TE1M2AOUQ83H",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "DreamPath AI – AI-Powered Career Guidance Platform",
+      "year": "2025",
+      "description": "I independently designed, developed, and deployed this live web application to help students in Pakistan discover suitable degrees, career paths, skills, and educational opportunities.\n\nI worked on the design, development, and implementation of this platform using web technologies and Google AI Studio.",
+      "techStack": [
+        "Web Technologies",
+        "Google AI Studio",
+        "AI Integration",
+        "Responsive UI"
+      ],
+      "liveUrl": "https://dreampathai.vercel.app/",
+      "githubUrl": "",
+      "imageUrl": "",
+      "featured": true
+    },
+    {
+      "id": "proj-2",
+      "title": "Health Guide App",
+      "year": "2026",
+      "description": "I designed and developed a digital health support application featuring AI integration, basic medical guidance, and user-friendly digital solutions.\n\nMy work included UI design, responsive web development, and AI integration.",
+      "techStack": [
+        "Responsive Web Development",
+        "UI Design",
+        "AI Integration"
+      ],
+      "liveUrl": "https://health-guide-app.vercel.app/",
+      "githubUrl": "",
+      "imageUrl": "",
+      "featured": true
+    },
+    {
+      "id": "proj-3",
+      "title": "ThumbForge",
+      "year": "2025",
+      "description": "A web application designed to extract and download YouTube video and Shorts thumbnails.",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web Application"
+      ],
+      "liveUrl": "https://thumb-forge-beta.vercel.app/",
+      "githubUrl": "",
+      "imageUrl": "",
+      "featured": false
+    },
+    {
+      "id": "proj-4",
+      "title": "Personal Portfolio Website",
+      "year": "2026",
+      "description": "My personal portfolio website showcasing my learning journey, technical skills, projects, and professional achievements.",
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Express"
+      ],
+      "liveUrl": "",
+      "githubUrl": "",
+      "imageUrl": "",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "position": "Mathematics Instructor",
+      "organization": "Village Bilawal Khuharo (Community)",
+      "period": "2024–2026",
+      "description": "Teaching mathematics and supporting students in understanding mathematical concepts."
+    },
+    {
+      "id": "exp-2",
+      "position": "Volunteer Assistant & Ramadan Welfare Program",
+      "organization": "Hidaya Foundation",
+      "period": "2025–2026",
+      "description": "Participation in volunteer assistance and Ramadan welfare activities."
+    },
+    {
+      "id": "exp-3",
+      "position": "Career Guidance Mentor",
+      "organization": "Community & Online",
+      "period": "2025–2026",
+      "description": "Helping students explore educational opportunities and understand possible career pathways."
+    }
+  ],
+  "awards": [
+    {
+      "id": "award-steam",
+      "title": "District STEAM Muqablo",
+      "issuer": "C&S Government Degree College, Shikarpur",
+      "year": "2025",
+      "isSteamCompetition": true,
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "award-1",
+      "title": "Second Position – NAB Speech Competition (Say No To Corruption)",
+      "issuer": "National Accountability Bureau / C&S Government Degree College, Shikarpur",
+      "year": "2024",
+      "isSteamCompetition": false,
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "award-2",
+      "title": "Latif Day Speech Competition",
+      "issuer": "C&S Government Degree College, Shikarpur",
+      "year": "2023",
+      "isSteamCompetition": false,
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "award-3",
+      "title": "Shah Latif Day Speech Competition",
+      "issuer": "C&S Government Degree College, Shikarpur",
+      "year": "2024",
+      "isSteamCompetition": false,
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "award-4",
+      "title": "World Teacher's Day Speech Participation",
+      "issuer": "C&S Government Degree College, Shikarpur",
+      "year": "2023",
+      "isSteamCompetition": false,
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "award-5",
+      "title": "Certificate of Appreciation for Outstanding Performance in Biology (Matriculation)",
+      "issuer": "Government Boys High School, Mian Jo Goth",
+      "year": "2023",
+      "isSteamCompetition": false,
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    }
+  ],
+  "otherQualifications": [
+    {
+      "id": "qual-1",
+      "title": "Diploma in Information Technology (DIT)",
+      "institution": "MU Institute of Information Technology, Shikarpur",
+      "year": "2025",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "qual-2",
+      "title": "Hifz-e-Quran (Memorization of the Holy Quran)",
+      "institution": "Hussaini Masjid Bilawal Khuharo",
+      "issuedBy": "Hafiz Ali Hassan",
+      "year": "2025",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "qual-3",
+      "title": "Spoken English Course",
+      "institution": "Nextgen Digital University",
+      "year": "2026",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "qual-4",
+      "title": "Social Media Marketing",
+      "institution": "Nextgen Digital University",
+      "year": "2026",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "qual-5",
+      "title": "Canva Freelancing",
+      "institution": "Nextgen Digital University",
+      "year": "2026",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    },
+    {
+      "id": "qual-6",
+      "title": "Video Editing",
+      "institution": "Nextgen Digital University",
+      "year": "2026",
+      "certificateFileUrl": "",
+      "certificateFileType": ""
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "name": "Python",
+      "category": "Programming",
+      "description": "Core Python syntax, data structures, scripting, and foundational libraries for AI & development."
+    },
+    {
+      "id": "skill-2",
+      "name": "Programming Fundamentals",
+      "category": "Programming",
+      "description": "Algorithmic logic, control flow, modular functions, and structured problem breakdown."
+    },
+    {
+      "id": "skill-3",
+      "name": "Artificial Intelligence",
+      "category": "AI & Machine Learning",
+      "description": "Understanding AI systems, model capabilities, and building practical AI-powered applications."
+    },
+    {
+      "id": "skill-4",
+      "name": "Machine Learning",
+      "category": "AI & Machine Learning",
+      "description": "Foundational concepts of supervised/unsupervised learning, training workflows, and evaluation."
+    },
+    {
+      "id": "skill-5",
+      "name": "Prompt Engineering",
+      "category": "AI & Machine Learning",
+      "description": "Designing structured prompts and workflows to guide language models reliably in real apps."
+    },
+    {
+      "id": "skill-6",
+      "name": "HTML",
+      "category": "Web Development",
+      "description": "Semantic markup, accessible document structure, and clean SEO-friendly page architecture."
+    },
+    {
+      "id": "skill-7",
+      "name": "CSS",
+      "category": "Web Development",
+      "description": "Responsive layouts with Flexbox, Grid, modern styling systems, and smooth transitions."
+    },
+    {
+      "id": "skill-8",
+      "name": "JavaScript",
+      "category": "Web Development",
+      "description": "Interactive client-side logic, DOM manipulation, asynchronous APIs, and modern ES syntax."
+    },
+    {
+      "id": "skill-9",
+      "name": "React",
+      "category": "Web Development",
+      "description": "Component-driven UI engineering, state management, hooks, and responsive web applications."
+    },
+    {
+      "id": "skill-10",
+      "name": "Git & GitHub",
+      "category": "Other",
+      "description": "Version control, repository organization, collaborative workflows, and deployment tracking."
+    },
+    {
+      "id": "skill-11",
+      "name": "Problem Solving",
+      "category": "Other",
+      "description": "Analytical decomposition of real-world challenges into clear, testable digital solutions."
+    },
+    {
+      "id": "skill-12",
+      "name": "Mathematics",
+      "category": "Other",
+      "description": "Mathematical foundations for computer science and practical experience teaching concepts clearly."
+    },
+    {
+      "id": "skill-13",
+      "name": "Digital Skills",
+      "category": "Other",
+      "description": "IT security awareness, digital productivity tools, content creation, and technical communication."
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "topic-1",
+      "title": "My Journey into Artificial Intelligence",
+      "topic": "Artificial Intelligence",
+      "excerpt": "Suggested topic — share how your curiosity in Shikarpur sparked a focused path into AI and Computer Science.",
+      "content": "",
+      "publishedAt": "",
+      "status": "draft"
+    },
+    {
+      "id": "topic-2",
+      "title": "Learning Python: My First Steps in Programming",
+      "topic": "Python & Programming",
+      "excerpt": "Suggested topic — reflect on mastering Python fundamentals through structured university and IBM courses.",
+      "content": "",
+      "publishedAt": "",
+      "status": "draft"
+    },
+    {
+      "id": "topic-3",
+      "title": "Building Dreampath AI",
+      "topic": "Project Case Study",
+      "excerpt": "Suggested topic — document the design, challenges, and deployment of an AI career guidance platform for students in Pakistan.",
+      "content": "",
+      "publishedAt": "",
+      "status": "draft"
+    },
+    {
+      "id": "topic-4",
+      "title": "How AI Is Changing the Future",
+      "topic": "Technology & Society",
+      "excerpt": "Suggested topic — explore how accessible AI tools are transforming education, healthcare, and software creation.",
+      "content": "",
+      "publishedAt": "",
+      "status": "draft"
+    },
+    {
+      "id": "topic-5",
+      "title": "My Experience Building Real-World Projects",
+      "topic": "Software Development",
+      "excerpt": "Suggested topic — lessons learned from taking ideas like Health Guide App and ThumbForge to live deployment.",
+      "content": "",
+      "publishedAt": "",
+      "status": "draft"
+    },
+    {
+      "id": "topic-6",
+      "title": "Learning Computer Science and Technology",
+      "topic": "Computer Science",
+      "excerpt": "Suggested topic — connecting mathematics, security fundamentals, and practical building into continuous growth.",
+      "content": "",
+      "publishedAt": "",
+      "status": "draft"
+    }
+  ]
+}

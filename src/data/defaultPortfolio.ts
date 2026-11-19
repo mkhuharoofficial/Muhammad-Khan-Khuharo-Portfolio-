@@ -448,7 +448,7 @@ export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
     },
     {
       id: 'topic-3',
-      title: 'Building DreamPath AI',
+      title: 'Building Dreampath AI',
       topic: 'Project Case Study',
       excerpt: 'Suggested topic — document the design, challenges, and deployment of an AI career guidance platform for students in Pakistan.',
       content: '',
