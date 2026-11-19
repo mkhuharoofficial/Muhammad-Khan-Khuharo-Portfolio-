@@ -25,7 +25,7 @@ export const DEFAULT_PORTFOLIO_DATA: PortfolioData = {
       'I believe that learning should always be connected with practical experience. That is why I continuously explore new technologies, complete online courses, and develop projects.',
       'I enjoy problem-solving, sharing knowledge, teaching mathematics, and helping people explore educational and career opportunities.',
     ],
-    portraitUrl: '',
+    portraitUrl: '/public/assets/aistudio/file_00000000e3c8820b99e42df526f4782e_438193d1.png',
     email: 'mkhuharoofficial@gmail.com',
     githubUrl: 'https://github.com/mkhuharoofficial',
     linkedinUrl: 'https://www.linkedin.com/in/muhammad-khan-26137b403/',
